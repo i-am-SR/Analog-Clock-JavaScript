@@ -1,9 +1,7 @@
-# X-s-and-O-s-JavaScript
-I created a game of X's and O's in JavaScript
+# Analog-Clock-JavaScript
 
-This is a personal project I worked on. I used HTML, CSS, and JavaScript to make this game. This was an excercise to brush up my HTML, CSS, and JavaScript skills. Below are a few screenshots:
+This is a personal project I worked on. I used HTML, CSS, and JavaScript to make it. This was an exercise as a part of the JavaScript Essential training course on LinkedIn learning by Morten Rand Hendriksen. Below is a screenshot:
 
-![Start](/start.png)
-![Play](/play.png)
+![Clock](Images/analogclock.png) 
 
 
